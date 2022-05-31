@@ -1,0 +1,170 @@
+h3{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+.wrap{
+    height: 405px;
+    margin: 80px;
+}
+
+
+.one{
+    height: 200px;
+    width: 100%;
+}
+.a{
+    height: 200px;
+    width: 49%;
+    float: left;
+}
+.a1{
+    height: 200px;
+    width: 49%;
+    background-color: blue;
+    float: left;
+}
+.a2{
+    height: 98px;
+    width: 49%;
+    background-color: blue;
+    float: right
+}
+.a3{
+    margin-top: 4px;
+    height: 98px;
+    width: 49%;
+    background-color: blue;
+    float: right;
+}
+/* Box 1 complete */
+
+.b{
+    height: 200px;
+    width: 49%;
+    float: right;
+}
+.b1{
+    height: 98px;
+    width: 32%;
+    background-color: blue;
+    float: left;
+}
+.b2{
+    height: 98px;
+    width: 32%;
+    background-color: blue;
+    float: left;
+    margin-left: 2%;
+}
+.b3{
+    height: 98px;
+    width: 32%;
+    background-color: blue;
+    float: left;
+    margin-left: 2%;
+}
+.b4{
+    margin-top: 4px;
+    height: 98px;
+    width: 66%;
+    background-color: blue;
+    float: left;
+}
+.b5{
+    margin-top: 4px;
+    height: 47px;
+    width: 32%;
+    background-color: blue;
+    float: left;
+    margin-left: 2%;
+}
+.b6{
+    margin-top: 4px;
+    height: 47px;
+    width: 32%;
+    background-color: blue;
+    float: left;
+    margin-left: 2%;
+}
+/* Box 2 complete */
+
+
+.two{
+    margin-top: 5px;
+    height: 200px;
+    width: 100%;
+}
+.c{
+    height: 200px;
+    width: 49%;
+    float: left;
+}
+.c1{
+    height: 200px;
+    width: 100%;
+    background-color: blue;
+    float: left;
+}
+
+/* Box 3 Complete */
+
+
+
+.d{
+    height: 200px;
+    width: 49%;
+    float: right;
+}
+.d1{
+    height: 200px;
+    width: 20.5%;
+    background-color: blue;
+    float: left;
+}
+.d2{
+    height: 98px;
+    width: 20.5%;
+    background-color: blue;
+    float: left;
+    margin-left: 2%;
+}
+.d3{
+    height: 98px;
+    width: 20.9%;
+    background-color: blue;
+    float: left;
+    margin-left: 2%;
+}
+.d4{
+    height: 98px;
+    width: 15%;
+    background-color: blue;
+    float: left;
+    margin-left: 2%;
+}
+.d5{
+    height: 98px;
+    width: 15.1%;
+    background-color: blue;
+    float: left;
+    margin-left: 2%;
+}
+.d6{
+    margin-top: 4px;
+    height: 98px;
+    width: 20.5%;
+    background-color: blue;
+    float: left;
+    margin-left: 2%;
+}
+.d7{
+    margin-top: 4px;
+    height: 98px;
+    width: 55%;
+    background-color: blue;
+    float: left;
+    margin-left: 2%;
+}
+/* Finish: 
+Thank You for Connecting Us.*/
